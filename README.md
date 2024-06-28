@@ -43,4 +43,9 @@ In today's fast-paced digital world, the rapid spread of misinformation poses si
 
 
 
+Link to my tableau dashboard:
+https://public.tableau.com/app/profile/lydia2817/viz/Fact-chekinganalysisinPolitiffact/Dashboard1?publish=yes
+Link to my Deployed App:
+https://fakene.streamlit.app
+
 
