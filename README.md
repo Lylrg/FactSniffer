@@ -1,4 +1,9 @@
 # FactSniffer
+![Static Badge](https://img.shields.io/badge/Web%20Scrapping-555555)
+![Static Badge](https://img.shields.io/badge/Beautiful%20Soup-555555)
+![Static Badge](https://img.shields.io/badge/NLP-555555)
+![Static Badge](https://img.shields.io/badge/scikit-learn-555555?logo=scikit-learn&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/pytesseract-555555)
 
 Ladies and gentlemen, welcome to the age of misinformation! A time where every outlander idea, no matter how, finds its audience.🤪
 
@@ -18,7 +23,7 @@ I curated data from three diverse datasets:
 
 To better understand Politifact's fact-checking process, I created an interactive dashboard on Tableau. Check it out here: [Fact-checking analysis in Politifact Dashboard](https://public.tableau.com/app/profile/lydia2817/viz/Fact-chekinganalysisinPolitiffact/Dashboard1?publish=yes). You can use the dashboard to compare who lied more between Trump and Biden.
 
-Additionally, I conducted polarity analysis using TextBlob to gauge the sentiment across various statements.
+Additionally, I conducted polarity analysis using TextBlob to evaluate the sentiment across various statements.
 
 
 
