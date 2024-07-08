@@ -1,17 +1,26 @@
 # FactSniffer
 
-Ladies and gentlemen, welcome to the age of misinformation! A time where every outlander idea, no matter how, finds its audience.
-Who need facts when you can simply denny reality? Nowadays social media has given everyone the power to share their "alternative truths". Who cares about evidence when you have a strong opinion, right?
+Ladies and gentlemen, welcome to the age of misinformation! A time where every outlander idea, no matter how, finds its audience.🤪
+
+Who need facts when you can simply denny reality? 
+Nowadays social media has given everyone the power to share their "alternative truths". 📣 
+Who cares about evidence when you have a strong opinion, right?
 Misinformation can lead to real-world consequences, influencing elections, fueling pandemics and it doesn't stop there; fake news turns people into racists, homophobes.
-Fear not, dear friends! We've got FactSniffer, your trustly machine learning algorithm that fight against fake news. Think of it as your personal digital detective.
 
-### Want to see a demo?
+Fear not, dear friends! We've got FactSniffer, your trustly machine learning algorithm that fight against fake news. Think of it as your personal digital detective.🔍
 
-Watch our demo video on YouTube:
+Let's dive into how FactSniffer works!
+I curated data from three diverse datasets:
 
-[![FactSniffer Demo Video](https://img.youtube.com/vi/rFD8hLvLg9E/0.jpg)](https://www.youtube.com/watch?v=rFD8hLvLg9E)
+- 📰 News dataset from Kaggle
+- 🦠 Covid news dataset
+- 🕵️‍♂️ Scraped data from Politifact's webpage
 
-Click the image above to view the demo.
+To better understand Politifact's fact-checking process, I created an interactive dashboard on Tableau. Check it out here: [Fact-checking analysis in Politifact Dashboard](https://public.tableau.com/app/profile/lydia2817/viz/Fact-chekinganalysisinPolitiffact/Dashboard1?publish=yes). You can use the dashboard to compare who lied more between Trump and Biden.
+
+Additionally, I conducted polarity analysis using TextBlob to gauge the sentiment across various statements.
+
+
 
 ## Project Structure
 - `app.py`: Streamlit application for real-time fake news detection.
@@ -41,15 +50,19 @@ Click the image above to view the demo.
    ```sh
    gpython train.py
 ### Step 2: Run the streamlit application
-1. **RLaunch the streamlit app:**
+1. **Launch the streamlit app:**
    ```sh
    gstreamlit run app.py
 
 
-
-Link to my tableau dashboard:
-https://public.tableau.com/app/profile/lydia2817/viz/Fact-chekinganalysisinPolitiffact/Dashboard1?publish=yes
-Link to my Deployed App:
+## Link to my Deployed App:
 https://fakene.streamlit.app
 
+### Want to see a demo?
+
+Watch our demo video on YouTube:
+
+[![FactSniffer Demo Video](https://img.youtube.com/vi/rFD8hLvLg9E/0.jpg)](https://www.youtube.com/watch?v=rFD8hLvLg9E)
+
+Click the image above to view the demo.
 
