@@ -9,6 +9,14 @@ FactSniffer is an innovative machine learning application designed to detect and
 
 In today's fast-paced digital world, the rapid spread of misinformation poses significant challenges. False news can influence public opinion, spread panic, and lead to misinformed decisions. FactSniffer was developed to combat this problem by providing a reliable tool for detecting fake news. Here’s why FactSniffer is essential: to combatting missinformation, empowering users and enhancing thrust.
 
+### Want to see a demo?
+
+Watch our demo video on YouTube:
+
+[![FactSniffer Demo Video](https://img.youtube.com/vi/rFD8hLvLg9E/0.jpg)](https://www.youtube.com/watch?v=rFD8hLvLg9E)
+
+Click the image above to view the demo.
+
 ## Project Structure
 - `app.py`: Streamlit application for real-time fake news detection.
 - `train.py`: Script for training the fake news detection model.
