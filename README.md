@@ -1,13 +1,9 @@
 # FactSniffer
 
-# Welcome to FactSniffer!
-
-What is FactSniffer?
-FactSniffer is an innovative machine learning application designed to detect and distinguish between real and fake news. Leveraging state-of-the-art natural language processing (NLP) techniques, FactSniffer aims to help users verify the authenticity of news articles and social media posts, contributing to a more informed and discerning digital community.
-
-#Why FactSniffer?
-
-In today's fast-paced digital world, the rapid spread of misinformation poses significant challenges. False news can influence public opinion, spread panic, and lead to misinformed decisions. FactSniffer was developed to combat this problem by providing a reliable tool for detecting fake news. Here’s why FactSniffer is essential: to combatting missinformation, empowering users and enhancing thrust.
+Ladies and gentlemen, welcome to the age of misinformation! A time where every outlander idea, no matter how, finds its audience.
+Who need facts when you can simply denny reality? Nowadays social media has given everyone the power to share their "alternative truths". Who cares about evidence when you have a strong opinion, right?
+Misinformation can lead to real-world consequences, influencing elections, fueling pandemics and it doesn't stop there; fake news turns people into racists, homophobes.
+Fear not, dear friends! We've got FactSniffer, your trustly machine learning algorithm that fight against fake news. Think of it as your personal digital detective.
 
 ### Want to see a demo?
 
